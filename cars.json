@@ -1,0 +1,23 @@
+[
+    {"id": 1, "marka": "Volkswagen", "model": "Polo", "uretimYil": 2014, "kmBasina": 0.047},
+    {"id": 2, "marka": "Volkswagen", "model": "Polo", "uretimYil": 2022, "kmBasina": 0.05},
+    {"id": 3, "marka": "Volkswagen", "model": "Passat", "uretimYil": 2012, "kmBasina": 0.059},
+    {"id": 4, "marka": "Volkswagen", "model": "T-Cross", "uretimYil": 2023, "kmBasina": 0.051},
+    {"id": 5, "marka": "Audi", "model": "A4", "uretimYil": 2016, "kmBasina": 0.052},
+    {"id": 6, "marka": "Audi", "model": "A4", "uretimYil": 2009, "kmBasina": 0.071},
+    {"id": 7, "marka": "Audi", "model": "Q8", "uretimYil": 2020, "kmBasina": 0.068},
+    {"id": 8, "marka": "Audi", "model": "A7", "uretimYil": 2019, "kmBasina": 0.044},
+    {"id": 9, "marka": "MINI", "model": "Cooper", "uretimYil": 2006, "kmBasina": 0.058},
+    {"id": 10, "marka": "MINI", "model": "Cooper", "uretimYil": 2003, "kmBasina": 0.067},
+    {"id": 11, "marka": "MINI", "model": "Cooper", "uretimYil": 2021, "kmBasina": 0.048},
+    {"id": 12, "marka": "MINI", "model": "Cooper S", "uretimYil": 2009, "kmBasina": 0.069},
+    {"id": 13, "marka": "Skoda", "model": "Fabia", "uretimYil": 2018, "kmBasina": 0.048},
+    {"id": 14, "marka": "Skoda", "model": "Fabia", "uretimYil": 2009, "kmBasina": 0.059},
+    {"id": 15, "marka": "Skoda", "model": "Scala", "uretimYil": 2021, "kmBasina": 0.051},
+    {"id": 16, "marka": "Skoda", "model": "Karoq", "uretimYil": 2019, "kmBasina": 0.054},
+    {"id": 17, "marka": "Toyota", "model": "Corolla", "uretimYil": 2005, "kmBasina": 0.067},
+    {"id": 18, "marka": "Toyota", "model": "Corolla", "uretimYil": 2022, "kmBasina": 0.056},
+    {"id": 19, "marka": "Toyota", "model": "Yaris", "uretimYil": 2007, "kmBasina": 0.049},
+    {"id": 20, "marka": "Toyota", "model": "Yaris", "uretimYil": 2016, "kmBasina": 0.047}
+  ]
+  
